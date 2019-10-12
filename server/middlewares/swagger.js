@@ -6,7 +6,7 @@ const options = {
     swaggerDefinition: {
         swagger: "2.0",
         info: {
-            title: 'Bandlab Assignment API',
+            title: 'Video Processor API',
             version: '1.0.0'
         },
         host: 'localhost:3000',
